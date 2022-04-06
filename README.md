@@ -1,9 +1,18 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/CesarDanilo/851863e8a088d203ae0268eda2e1796a/raw/15656327515460e4683a39515231447ff4f88672/githubcard.svg"/>
+<img align="right" height="590em"  src="https://raw.githubusercontent.com/gist/CesarDanilo/851863e8a088d203ae0268eda2e1796a/raw/15656327515460e4683a39515231447ff4f88672/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm César Danilo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="left">
+  <a href="https://github.com/CesarDanilo">
+  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
 
 <br><br>
 
@@ -18,18 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-  <a href="https://github.com/CesarDanilo">
-  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br><br>
+ <br><br>
 
 🦲 &nbsp;Social Links
 
