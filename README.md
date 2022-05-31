@@ -10,22 +10,23 @@
 
 <div align="left">
   <a href="https://github.com/CesarDanilo">
-  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![csharp](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![dotnet](https://img.shields.io/badge/-dotnet-05122A?style=for-the-badge&logo=dotnet)&nbsp;
+![mysql](https://img.shields.io/badge/-Mysql-05122A?style=for-the-badge&logo=mysql)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  <br><br>
 
 🦲 &nbsp;Social Links
@@ -39,6 +40,7 @@
   <a href="https://www.linkedin.com/in/cesar-danilo-396408153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  </p>
+ 
 
 
 
