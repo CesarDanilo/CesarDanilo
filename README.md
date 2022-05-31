@@ -1,7 +1,7 @@
 
 <img align="right" height="550em"  src="https://raw.githubusercontent.com/gist/CesarDanilo/851863e8a088d203ae0268eda2e1796a/raw/15656327515460e4683a39515231447ff4f88672/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm César Danilo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
 <br><br>
@@ -26,7 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
  <br><br>
 
 🦲 &nbsp;Social Links
