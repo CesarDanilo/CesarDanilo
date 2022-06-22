@@ -15,7 +15,10 @@ Engenheiro de Software
 * 🤝  I'm open to collaborating on all kinds of projects
 * ⚡  Evolving every day
 - 🔥 Junior Web Developer
-- 
+
+<br>
+<br>
+<br>
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
