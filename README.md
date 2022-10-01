@@ -11,7 +11,7 @@ Engenheiro de Software
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [cesardanilopalacios616@gmail.com](mailto:cesardanilopalacios616@gmail.com)
-* 🧠  I'm learning C# .NET, ASP .NET
+* 🧠  I'm learning Python Django
 * 🤝  I'm open to collaborating on all kinds of projects
 * ⚡  Evolving every day
 - 🔥 Junior Web Developer
