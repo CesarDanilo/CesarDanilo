@@ -2,12 +2,12 @@
 <img align="right" height="550em"  src="https://raw.githubusercontent.com/gist/CesarDanilo/68e48684b7ff14885d7a2fa10ebb6688/raw/43e35076ac60fcc5a4f20880576d545334afa207/githubcard2.svg"/>
 
 Hi 👋 My name is César Danilo
-=============================
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
 
 Engenheiro de Software
-----------------------
+
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [cesardanilopalacios616@gmail.com](mailto:cesardanilopalacios616@gmail.com)
@@ -22,10 +22,8 @@ Engenheiro de Software
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="left">
-<a href="http://www.github.com/CesarDanilo"><img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="CesarDanilo's GitHub stats" /></a>
 
-<a href="http://www.github.com/CesarDanilo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/CesarDanilo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&stroke=ffffff&background=000000&ring=red&fire=red&currStreakNum=ffffff&currStreakLabel=red&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
   
 
