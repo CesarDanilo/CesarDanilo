@@ -7,15 +7,6 @@ Hi 👋 My name is César Danilo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
 
 Engenheiro de Software
-
-
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [cesardanilopalacios616@gmail.com](mailto:cesardanilopalacios616@gmail.com)
-* 🧠  I'm learning Python Django
-* 🤝  I'm open to collaborating on all kinds of projects
-* ⚡  Evolving every day
-- 🔥 Junior Web Developer
-
 <br>
 <br>
 <br>
