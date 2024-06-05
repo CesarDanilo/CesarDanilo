@@ -7,18 +7,11 @@ Hi 👋 My name is César Danilo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
 
 Engenheiro de Software
-<br>
-<br>
-<br>
-<br>
 
-## ⚙️ &nbsp;GitHub Analytics
 
 <a href="http://www.github.com/CesarDanilo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&stroke=ffffff&background=000000&ring=red&fire=red&currStreakNum=ffffff&currStreakLabel=red&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-  
 
-<br>
+  
 
 ### Skills
 
