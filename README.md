@@ -1,5 +1,3 @@
-<img align="right" height="450em"  src="https://raw.githubusercontent.com/gist/CesarDanilo/68e48684b7ff14885d7a2fa10ebb6688/raw/43e35076ac60fcc5a4f20880576d545334afa207/githubcard2.svg"/>
-
 
 Hi 👋 My name is César Danilo
 
