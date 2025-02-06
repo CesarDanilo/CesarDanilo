@@ -1,16 +1,16 @@
 
-<p align="center"> Hi 👋 My name is César Danilo </p>
+<p align="left"> Hi 👋 My name is César Danilo </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarDanilo&color=blueviolet" alt="Profile views" /> </p>
 
-<p align="center"> Engenheiro de Software </p>
-<p align="center"> FullStack </p>
-
-
+<p align="left"> Engenheiro de Software </p>
+<p align="left"> FullStack </p>
 
 
-<p align="center">
+
+
+<p align="left">
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/typescript.svg?sanitize=true" width="36" height="36" alt="TypeScript" /></a> -->
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="typescript" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="javascript" /></a>
@@ -23,8 +23,8 @@
   
 </p>
 
-<p align="center">Socials</p>
+<p align="left">Socials</p>
 
-<p align="center"> <a href="https://www.github.com/CesarDanilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cesar_danilo616" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/césar-danilo-palácios-ortega-396408153" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/CesarDanilo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cesar_danilo616" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/césar-danilo-palácios-ortega-396408153" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
