@@ -131,7 +131,7 @@
 <br/>
 
 ### 📊 Estatísticas
-
+<!-- 
 <p>
   <img 
     align="left" 
@@ -148,4 +148,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
+
+
+![](https://github-contributor-stats.vercel.app/api?username=cesardanilo&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
