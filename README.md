@@ -1,4 +1,4 @@
-# 👩🏻‍💻 César Danilo
+# 👾 César Danilo
 
 **`Desenvolvedor FullStack`**
 <p align="left">
