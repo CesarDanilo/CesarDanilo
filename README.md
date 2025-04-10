@@ -49,15 +49,6 @@ Desenvolvedor FullStack com experiência na construção de aplicações moderna
 
 ---
 
-### Abordagem de Desenvolvimento
-
-- Clareza > Complexidade  
-- Legibilidade, consistência e testes  
-- Código reutilizável e desacoplado  
-- Preferência por soluções simples, porém robustas
-
----
-
 ### Projetos Selecionados
 
 **[ecommerce](https://github.com/CesarDanilo/ecommerce)**  
