@@ -72,14 +72,3 @@ Sistema de agendamento de consultas médicas com funcionalidades de cadastro, ed
 />
 
 ---
-
-### Sobre Mim
-
-```ts
-const cesar = {
-  nome: "César Danilo",
-  especialidade: "FullStack Web",
-  stack: ["React", "Node.js", "TypeScript", "PostgreSQL"],
-  valores: ["legibilidade", "consistência", "autonomia"],
-  buscando: "desafios com propósito e times maduros"
-}
