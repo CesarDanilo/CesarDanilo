@@ -55,7 +55,8 @@ Desenvolvedor FullStack com experiência na construção de aplicações moderna
 Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitetura web.
 
 **[landing-page-alienware](https://github.com/CesarDanilo/landing-page-alienware)**  
-Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.
+Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
+Link: https://landing-page-alienware-bpw8.vercel.app
 
 **[Medical appointment scheduling system](https://github.com/CesarDanilo/Medical-appointment-scheduling-system)**  
 Sistema de agendamento de consultas médicas com funcionalidades de cadastro, edição e listagem.
