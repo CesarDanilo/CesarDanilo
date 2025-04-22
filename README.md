@@ -1,5 +1,3 @@
-<h1 align="left">César Danilo</h1>
-
 <p align="left">
 Desenvolvedor FullStack com experiência na construção de aplicações modernas, escaláveis e centradas em boas práticas de engenharia de software. Atuação com foco em performance, clareza e consistência de código.
 </p>
