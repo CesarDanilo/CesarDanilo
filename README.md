@@ -30,8 +30,7 @@ Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitet
 Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
 
 **[Todo Master](https://todo-list-fullstack-pi.vercel.app/)**  
-
-
+Aplicação de lista de tarefas (todo list) com autenticação.
 
 <!--
 ---
