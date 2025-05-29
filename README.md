@@ -30,7 +30,7 @@ Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitet
 Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
 Link: https://landing-page-alienware-bpw8.vercel.app
 
-**[Medical appointment scheduling system](https://github.com/CesarDanilo/Medical-appointment-scheduling-system)**  
+**[Todo Master](https://todo-list-fullstack-pi.vercel.app/)**  
 Sistema de agendamento de consultas médicas com funcionalidades de cadastro, edição e listagem.
 
 
