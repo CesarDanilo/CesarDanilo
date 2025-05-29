@@ -28,7 +28,6 @@ Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitet
 
 **[landing-page-alienware](https://landing-page-alienware-bpw8.vercel.app)**  
 Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
-Link: 
 
 **[Todo Master](https://todo-list-fullstack-pi.vercel.app/)**  
 
