@@ -26,12 +26,12 @@ Desenvolvedor FullStack com experiência na construção de aplicações moderna
 **[ecommerce](https://github.com/CesarDanilo/ecommerce)**  
 Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitetura web.
 
-**[landing-page-alienware](https://github.com/CesarDanilo/landing-page-alienware)**  
+**[landing-page-alienware](https://landing-page-alienware-bpw8.vercel.app)**  
 Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
-Link: https://landing-page-alienware-bpw8.vercel.app
+Link: 
 
 **[Todo Master](https://todo-list-fullstack-pi.vercel.app/)**  
-Sistema de agendamento de consultas médicas com funcionalidades de cadastro, edição e listagem.
+
 
 
 <!--
