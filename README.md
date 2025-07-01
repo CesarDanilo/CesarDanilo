@@ -34,21 +34,28 @@ Atualmente, concentro meus esforços em stacks baseadas em JavaScript/TypeScript
 
 ---
 
-### 📂 Repositórios em destaque
+### 📂 Repositórios em Destaque
 
+- [`E_commerce_Full_Stack`](https://github.com/CesarDanilo/E_commerce_Full_Stack)  
+  Plataforma completa de e-commerce desenvolvida com React no frontend, Node.js no backend e PostgreSQL como banco de dados.  
+  Funcionalidades incluem cadastro e listagem de produtos, sistema de login com persistência de sessão e gerenciamento de carrinho de compras.
 
-- [`ecommerce-fullstack`](https://github.com/seu-usuario/ecommerce-fullstack): plataforma de e-commerce com React, Node.js e PostgreSQL. Gerenciamento de produtos, autenticação e sistema de carrinho.
-- [`api-auth`](https://github.com/seu-usuario/api-auth): API RESTful com autenticação JWT, criptografia de senhas e middleware personalizado com Express.
-- [`landing-page-otimizada`](https://github.com/seu-usuario/landing-page-otimizada): página institucional responsiva, performance otimizada com Vite + TailwindCSS.
+- [`Todo-List-Fullstack`](https://github.com/CesarDanilo/Todo-List-Fullstack)  
+  API RESTful com foco em autenticação segura via JWT, middleware customizado para proteção de rotas e criptografia de senhas com bcrypt.  
+  Frontend integrado com React e controle total das tarefas do usuário autenticado.
+
+- [`Micro-SaaS`](https://github.com/CesarDanilo/Micro-SaaS)  
+  Landing page institucional responsiva e minimalista, construída com Vite + React + TailwindCSS.  
+  Foco em SEO, velocidade de carregamento e arquitetura componentizada para fácil reaproveitamento em outros produtos SaaS.
+
 
 ---
 
 ### 📫 Contato
 
 Você pode me encontrar em:
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- [Email](mailto:seuemail@dominio.com)
-- [Portfólio](https://seusite.com) (caso tenha)
+- [LinkedIn](www.linkedin.com/in/césar-danilo-396408153)
+- [Email](cesardanilopalacios390@gmail.com)
 
 ---
 
