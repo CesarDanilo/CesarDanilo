@@ -36,15 +36,15 @@ Atualmente, concentro meus esforços em stacks baseadas em JavaScript/TypeScript
 
 ### 📂 Repositórios em Destaque
 
-- [`E_commerce_Full_Stack`](https://github.com/CesarDanilo/E_commerce_Full_Stack)  
+- [`ecommerce-store-fullstack`](https://github.com/CesarDanilo/E_commerce_Full_Stack)  
   Plataforma completa de e-commerce desenvolvida com React no frontend, Node.js no backend e PostgreSQL como banco de dados.  
   Funcionalidades incluem cadastro e listagem de produtos, sistema de login com persistência de sessão e gerenciamento de carrinho de compras.
 
-- [`Todo-List-Fullstack`](https://github.com/CesarDanilo/Todo-List-Fullstack)  
+- [`todo-app-fullstack`](https://github.com/CesarDanilo/Todo-List-Fullstack)  
   API RESTful com foco em autenticação segura via JWT, middleware customizado para proteção de rotas e criptografia de senhas com bcrypt.  
   Frontend integrado com React e controle total das tarefas do usuário autenticado.
 
-- [`Micro-SaaS`](https://github.com/CesarDanilo/Micro-SaaS)  
+- [`micro-saas`](https://github.com/CesarDanilo/Micro-SaaS)  
   Landing page institucional responsiva e minimalista, construída com Vite + React + TailwindCSS.  
   Foco em SEO, velocidade de carregamento e arquitetura componentizada para fácil reaproveitamento em outros produtos SaaS.
 
