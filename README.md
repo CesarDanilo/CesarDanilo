@@ -54,8 +54,8 @@ Atualmente, concentro meus esforços em stacks baseadas em JavaScript/TypeScript
 ### 📫 Contato
 
 Você pode me encontrar em:
-- [LinkedIn](www.linkedin.com/in/césar-danilo-396408153)
-- [Email](cesardanilopalacios390@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/césar-danilo-396408153)
+- [Email](mailto:cesardanilopalacios390@gmail.com)
 
 ---
 
