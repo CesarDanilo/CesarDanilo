@@ -44,7 +44,7 @@ Database Management:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" title="PostgreSQL"/>
 </p>
-Experiência com <strong>PostgreSQL</strong> e <strong>MongoDB</strong>, incluindo modelagem, otimização de queries e gerenciamento de transações.
+Experiência com <strong>PostgreSQL</strong>, incluindo modelagem, otimização de queries e gerenciamento de transações.
 
 DevOps & Ferramentas:
 
