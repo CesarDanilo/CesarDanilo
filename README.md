@@ -1,89 +1,75 @@
-<h1 align="center">👨‍💻 Desenvolvedor Full Stack</h1>
+<h1 align="center">
+🚀 Desenvolvedor Full Stack | Engenheiro de Software
+</h1>
 
 <p align="center">
-Especialista na construção de aplicações web modernas, escaláveis e robustas.  
-Foco em clean code, arquitetura sólida e entregas que geram valor real.
+Especialista na concepção e implementação de <strong>aplicações web escaláveis e de alta performance</strong>.
+<br>
+Foco em <strong>engenharia de software robusta</strong> e entrega de <strong>soluções estratégicas</strong>.
 </p>
 
----
+🌐 Sobre Mim: Proficiência Técnica
+Com sólida trajetória como Engenheiro de Software Full Stack, atuo na vanguarda do desenvolvimento, transformando requisitos em <strong>soluções eficientes e sustentáveis</strong>. Minha expertise abrange todo o ciclo de vida do software, da <strong>arquitetura à implantação</strong>.
 
-### 🚀 Sobre mim
+Priorizo <strong>qualidade de código</strong>, <strong>manutenibilidade</strong> e aplicação de <strong>padrões de projeto avançados</strong>. Sou defensor de <em>clean code</em>, <em>testabilidade</em> e <em>observabilidade</em>, garantindo sistemas robustos e evolutivos.
 
-Sou um desenvolvedor Full Stack com experiência prática em projetos de ponta a ponta, do planejamento à entrega em produção.  
-Tenho como prioridade a clareza no código, a previsibilidade do sistema e o uso consciente de tecnologias.
+Atualmente, foco em ecossistemas <strong>JavaScript/TypeScript</strong>, construindo interfaces ricas e APIs performáticas, com atenção à otimização e segurança.
 
-Atualmente, concentro meus esforços em stacks baseadas em JavaScript/TypeScript, construindo interfaces ricas e APIs performáticas, sempre com atenção à manutenibilidade e boas práticas de engenharia de software.
+🛠️ Competências e Domínios Técnicos
+Minha proficiência abrange as principais camadas da arquitetura de software:
 
----
+Frontend Engineering:
 
-### 💼 Principais Atividades
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+</p>
+Domínio em <strong>React</strong> para interfaces reativas e responsivas, com <strong>TypeScript</strong> para tipagem robusta e <strong>TailwindCSS</strong> para estilização. Foco em otimização de performance e SEO.
 
-- Arquitetura e desenvolvimento de aplicações web fullstack  
-- Estruturação de sistemas desacoplados e reutilizáveis  
-- Integrações com APIs RESTful e consumo de serviços externos  
-- Automatização de ambientes com Docker e práticas DevOps  
-- Versionamento eficiente com Git e colaboração em times ágeis  
+Backend Engineering:
 
----
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="45" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" title="NestJS"/>
+</p>
+Expertise em APIs RESTful e GraphQL com <strong>Node.js</strong> e <strong>Express</strong> (ou <strong>NestJS</strong> para escala), focando em microsserviços, segurança e resiliência.
 
-### 🛠️ Stack Técnica
+Database Management:
 
-| Frontend | Backend | DevOps & Ferramentas |
-|:--------:|:-------:|:--------------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" title="TailwindCSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" title="PostgreSQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" title="Vite"/> |
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" title="PostgreSQL"/>
+</p>
+Experiência com <strong>PostgreSQL</strong> e <strong>MongoDB</strong>, incluindo modelagem, otimização de queries e gerenciamento de transações.
 
----
+DevOps & Ferramentas:
 
-### 📂 Repositórios em Destaque
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" title="Vite"/>
+</p>
+Proficiência em <strong>Docker</strong> para conteinerização. Domínio de <strong>Git</strong> e <strong>GitHub</strong> para controle de versão. Familiaridade com <strong>AWS</strong> para deploy e infraestrutura.
 
-- [`ecommerce-store-fullstack`](https://github.com/CesarDanilo/E_commerce_Full_Stack)  
-  Plataforma completa de e-commerce desenvolvida com React no frontend, Node.js no backend e PostgreSQL como banco de dados.  
-  Funcionalidades incluem cadastro e listagem de produtos, sistema de login com persistência de sessão e gerenciamento de carrinho de compras.
+### ✨ Repositórios em Destaque: Projetos que Impulsionam Resultados
+Meus projetos demonstram a capacidade de entregar soluções completas e tecnicamente desafiadoras:
 
-- [`todo-app-fullstack`](https://github.com/CesarDanilo/Todo-List-Fullstack)  
-  API RESTful com foco em autenticação segura via JWT, middleware customizado para proteção de rotas e criptografia de senhas com bcrypt.  
-  Frontend integrado com React e controle total das tarefas do usuário autenticado.
+#### ecommerce-store-fullstack
 
-- [`micro-saas`](https://github.com/CesarDanilo/Micro-SaaS)  
-  Landing page institucional responsiva e minimalista, construída com Vite + React + TailwindCSS.  
-  Foco em SEO, velocidade de carregamento e arquitetura componentizada para fácil reaproveitamento em outros produtos SaaS.
+Plataforma de e-commerce completa, arquitetada para <strong>escalabilidade e modularidade</strong>. Integra <strong>React</strong>, <strong>Node.js/Express</strong> e <strong>PostgreSQL</strong>, com foco em autenticação robusta, API RESTful e gerenciamento de estado complexo.
 
+#### todo-app-fullstack
 
----
+Aplicação de lista de tarefas com foco em <strong>segurança e arquitetura de APIs</strong>. Destaque para autenticação via <strong>JWT</strong>, <strong>middlewares customizados</strong> e criptografia de senhas com <strong>bcrypt</strong>.
 
-### 📫 Contato
+#### micro-saas
 
-Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/césar-danilo-396408153)
-- [Email](mailto:cesardanilopalacios390@gmail.com)
+Uma <em>landing page</em> institucional moderna e performática, construída com <strong>Vite + React + TailwindCSS</strong>. Enfatiza <strong>arquitetura componentizada</strong>, otimização para <strong>SEO e velocidade</strong>, e design responsivo.
 
----
-
-> “Código limpo é como um bom texto: direto, objetivo e fácil de entender.”  
-> <sub>– Um desenvolvedor que valoriza a legibilidade</sub>
-
-<!--
-### Projetos Selecionados
-
-**[ecommerce](https://github.com/CesarDanilo/ecommerce)**  
-Plataforma de e-commerce com foco em escalabilidade e boas práticas de arquitetura web.
-
-**[landing-page-alienware](https://landing-page-alienware-bpw8.vercel.app)**  
-Landing page moderna e responsiva inspirada no design da Alienware, feita com React e Tailwind CSS.</br>
-
-**[Todo Master](https://todo-list-fullstack-pi.vercel.app/)**  
-Aplicação de lista de tarefas (todo list) com autenticação.
-
-
-
----
-
-### GitHub Activity
-
-<img 
-  src="https://github-contributor-stats.vercel.app/api?username=cesardanilo&limit=5&theme=github_dark&combine_all_yearly_contributions=true" 
-  alt="GitHub Stats"
-/>
-
----
-
+"A verdadeira maestria em programação não reside em saber tudo, mas em dominar a arte de resolver problemas complexos com elegância, eficiência e escalabilidade."
+<sub>– César Danilo</sub>
