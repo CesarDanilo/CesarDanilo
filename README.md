@@ -63,23 +63,5 @@ Proficiência em **Docker** para conteinerização. Domínio de **Git** e **GitH
 
 ---
 
-## ✨ Repositórios em Destaque: Projetos que Impulsionam Resultados
-
-Meus projetos demonstram a capacidade de entregar soluções completas e tecnicamente desafiadoras:
-
-### ecommerce-store-fullstack
-
-Plataforma de e-commerce completa, arquitetada para **escalabilidade e modularidade**. Integra **React**, **Node.js/Express** e **PostgreSQL**, com foco em autenticação robusta, API RESTful e gerenciamento de estado complexo. **Este projeto também faz uso do Prisma ORM para a gestão eficiente do banco de dados.**
-
-### todo-app-fullstack
-
-Aplicação de lista de tarefas com foco em **segurança e arquitetura de APIs**. Destaque para autenticação via **JWT**, **middlewares customizados** e criptografia de senhas com **bcrypt**.
-
-### micro-saas
-
-Uma *landing page* institucional moderna e performática, construída com **Vite + React + TailwindCSS**. Enfatiza **arquitetura componentizada**, otimização para **SEO e velocidade**, e design responsivo.
-
----
-
 "A verdadeira maestria em programação não reside em saber tudo, mas em dominar a arte de resolver problemas complexos com elegância, eficiência e escalabilidade."
 <sub>– César Danilo</sub>
