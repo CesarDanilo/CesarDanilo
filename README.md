@@ -64,4 +64,4 @@ Proficiência em **Docker** para conteinerização. Domínio de **Git** e **GitH
 ---
 
 "A verdadeira maestria em programação não reside em saber tudo, mas em dominar a arte de resolver problemas complexos com elegância, eficiência e escalabilidade."
-<sub>– César Danilo</sub>
+<sub>– César Danilo ☕️</sub>
