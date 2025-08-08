@@ -1,67 +1,27 @@
 # 🚀 Desenvolvedor Full Stack | Engenheiro de Software
 
-Especialista na concepção e implementação de **aplicações web escaláveis e de alta performance**.
-Foco em **engenharia de software robusta** e entrega de **soluções estratégicas**.
+Especialista em **aplicações web escaláveis e de alta performance**, com foco em **engenharia robusta**, **código limpo** e entrega de **soluções estratégicas**.
 
 ---
 
-## 🌐 Sobre Mim: Proficiência Técnica
+## 🌐 Sobre Mim
 
-Com sólida trajetória como Engenheiro de Software Full Stack, atuo na vanguarda do desenvolvimento, transformando requisitos em **soluções eficientes e sustentáveis**. Minha expertise abrange todo o ciclo de vida do software, da **arquitetura à implantação**.
-
-Priorizo **qualidade de código**, **manutenibilidade** e aplicação de **padrões de projeto avançados**. Sou defensor de *clean code*, *testabilidade* e *observabilidade*, garantindo sistemas robustos e evolutivos.
-
-Atualmente, foco em ecossistemas **JavaScript/TypeScript**, construindo interfaces ricas e APIs performáticas, com atenção à otimização e segurança.
+Engenheiro de Software Full Stack com experiência no ciclo completo de desenvolvimento — da **arquitetura à implantação**.  
+Priorizo **qualidade, manutenibilidade** e uso de **padrões avançados** como *clean code*, *testabilidade* e *observabilidade*.  
+Foco em **JavaScript/TypeScript**, construindo interfaces reativas e APIs performáticas, sempre atento à **otimização e segurança**.
 
 ---
 
-## 🛠️ Competências e Domínios Técnicos
-
-Minha proficiência abrange as principais camadas da arquitetura de software:
-
-### Frontend Engineering:
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="45" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="TailwindCSS"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/> -->
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vite" height="45" />
 </p>
-
-Domínio em **React** para interfaces reativas e responsivas, com **TypeScript** para tipagem robusta e **TailwindCSS** para estilização. Foco em otimização de performance e SEO.
-
-### Backend Engineering:
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="45" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-</p>
-
-Expertise em APIs RESTful com **Node.js** e **Express**, focando em microsserviços, segurança e resiliência.
-
-### Database Management & ORM:
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="45" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="45" title="Prisma"/>
-</p>
-
-Experiência robusta com **PostgreSQL**, incluindo modelagem de dados, otimização de queries e gerenciamento de transações. Proficiência no uso do **Prisma ORM** para interações eficientes e tipadas com o banco de dados.
-
-### DevOps & Ferramentas:
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" title="Vite"/>
-</p>
-
-Proficiência em **Docker** para conteinerização. Domínio de **Git** e **GitHub** para controle de versão. Familiaridade com **AWS** para deploy e infraestrutura.
 
 ---
 
-"A verdadeira maestria em programação não reside em saber tudo, mas em dominar a arte de resolver problemas complexos com elegância, eficiência e escalabilidade."
-<sub>– César Danilo ☕️</sub>
+> “A verdadeira maestria em programação está em resolver problemas complexos com elegância, eficiência e escalabilidade.”  
+> <sub>– César Danilo ☕️</sub>
