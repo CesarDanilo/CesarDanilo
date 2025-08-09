@@ -23,5 +23,12 @@ Foco em **JavaScript/TypeScript**, construindo interfaces reativas e APIs perfor
 
 ---
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=Precify&layout=compact&theme=dark)](https://github.com/CesarDanilo/Precify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=Ecommerce&theme=dark)](https://github.com/CesarDanilo/ecommerce-store-fullstack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=PrismaExpressAPI&theme=dark)](https://github.com/CesarDanilo/PrismaExpressAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=TypeScript-User-Api&theme=dark)](https://github.com/CesarDanilo/typescript-user-api)
+
+---
+
 > “A verdadeira maestria em programação está em resolver problemas complexos com elegância, eficiência e escalabilidade.”  
 > <sub>– César Danilo ☕️</sub>
