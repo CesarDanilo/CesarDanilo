@@ -1,4 +1,4 @@
-# 🚀 Desenvolvedor Full Stack | Engenheiro de Software
+# 🚀 Desenvolvedor Full Stack | ⚙ Engenheiro de Software
 
 Especialista em **aplicações web escaláveis e de alta performance**, com foco em **engenharia robusta**, **código limpo** e entrega de **soluções estratégicas**.
 
