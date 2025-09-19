@@ -6,8 +6,9 @@ Meu objetivo é transformar **complexidade em soluções simples**, aplicando pr
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind" height="45" />
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind" height="45" />
   <img src="https://skillicons.dev/icons?i=postgres,sequelize,prisma" height="45" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,vite" height="45" />
 </p>
