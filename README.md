@@ -1,4 +1,4 @@
-# 🚀 Engenheiro de Software | 🌐 Desenvolvedor Full Stack  
+#  Engenheiro de Software | 🌐 Desenvolvedor Full Stack  
 
 Apaixonado por **tecnologia e inovação**, construo **aplicações web escaláveis, seguras e performáticas**, unindo **engenharia de software robusta** a **interfaces modernas e intuitivas**.  
 Meu objetivo é transformar **complexidade em soluções simples**, aplicando princípios de **código limpo, arquitetura bem definida e boas práticas de desenvolvimento**.  
