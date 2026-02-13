@@ -14,7 +14,6 @@ Meu objetivo é transformar **complexidade em soluções simples**, aplicando pr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=dark&count_private=true&hide_title=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=dark" height="150"/>
 </p>
 
