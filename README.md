@@ -17,22 +17,4 @@ Meu objetivo é transformar **complexidade em soluções simples**, aplicando pr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=dark" height="150"/>
 </p>
 
-## 📌 Projetos em Destaque  
-
-<p align="center">
-  <a href="https://github.com/CesarDanilo/Precify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=Precify&theme=dark&layout=compact" width="400"/>
-  </a>
-  <a href="https://github.com/CesarDanilo/ecommerce-store-fullstack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=Ecommerce&theme=dark&layout=compact" width="400"/>
-  </a>
-  <a href="https://github.com/CesarDanilo/PrismaExpressAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=PrismaExpressAPI&theme=dark&layout=compact" width="400"/>
-  </a>
-  <a href="https://github.com/CesarDanilo/typescript-user-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CesarDanilo&repo=TypeScript-User-Api&theme=dark&layout=compact" width="400"/>
-  </a>
-</p>
-
-
 ---
