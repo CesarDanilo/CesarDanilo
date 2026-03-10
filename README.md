@@ -1,8 +1,8 @@
-#  Engenheiro de Software | Desenvolvedor Full Stack  
+# Software Engineer | Full Stack Developer  
 
-Apaixonado por **tecnologia e inovação**, construo **aplicações web escaláveis, seguras e performáticas**, unindo **engenharia de software robusta** a **interfaces modernas e intuitivas**.  
-Meu objetivo é transformar **complexidade em soluções simples**, aplicando princípios de **código limpo, arquitetura bem definida e boas práticas de desenvolvimento**.  
- 
+Passionate about **technology and innovation**, I build **scalable, secure, and high-performance web applications**, combining **robust software engineering** with **modern and intuitive interfaces**.  
+My goal is to transform **complexity into simple solutions**, applying principles of **clean code, well-defined architecture, and development best practices**.
+
 ---
 
 <p align="center">
