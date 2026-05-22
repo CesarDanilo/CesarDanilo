@@ -5,7 +5,6 @@ Atualmente desenvolvendo o Chat2Order, uma plataforma de automação de pedidos 
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=9f9f9f" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" height="165" />
@@ -26,20 +25,44 @@ Atualmente desenvolvendo o Chat2Order, uma plataforma de automação de pedidos 
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
+[🔗 Meu Portfólio](https://meu-portifolio-nu-eight.vercel.app/)
+
 ---
 
 ## 🚀 Projetos
 
 ### Chat2Order
-Sistema SaaS de automação de pedidos com IA.
 
+Sistema SaaS de automação de pedidos com IA integrada.
+
+#### Stack
 - React
 - TypeScript
 - Node.js
+- Express
 - Prisma
 - PostgreSQL
 - Docker
 
-🔗 Demo
-🔗 Frontend
-🔗 Backend
+#### Funcionalidades
+- Gestão de pedidos
+- Automação com IA
+- Dashboard administrativo
+- Histórico de pedidos
+- Controle de status
+- Integração com WhatsApp
+
+#### Links
+- 🔗 Demo: Em desenvolvimento
+- 🔗 Frontend: https://github.com/CesarDanilo/chat2order-frontend
+- 🔗 Backend: https://github.com/CesarDanilo/Chat2Order-backend
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/cesar-danilo-palacios-ortega-396401353/
+- GitHub: https://github.com/CesarDanilo
+- Portfólio: https://meu-portifolio-nu-eight.vercel.app/
+
+---
