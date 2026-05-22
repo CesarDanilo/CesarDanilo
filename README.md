@@ -27,3 +27,19 @@ Atualmente desenvolvendo o Chat2Order, uma plataforma de automação de pedidos 
 </p>
 
 ---
+
+## 🚀 Projetos
+
+### Chat2Order
+Sistema SaaS de automação de pedidos com IA.
+
+- React
+- TypeScript
+- Node.js
+- Prisma
+- PostgreSQL
+- Docker
+
+🔗 Demo
+🔗 Frontend
+🔗 Backend
