@@ -1,5 +1,7 @@
 # Cesar Danilo | Full Stack Developer
-Unindo rigor técnico à agilidade para entregar aplicações web de alto impacto. Focado na criação de sistemas seguros e resilientes, utilizo as melhores práticas de desenvolvimento para garantir produtos performáticos, sustentáveis e orientados à experiência do usuário.
+Desenvolvedor Full Stack focado em React, Node.js e TypeScript.
+Construindo produtos SaaS, automações e sistemas web com foco em performance, arquitetura limpa e experiência do usuário.
+Atualmente desenvolvendo o Chat2Order, uma plataforma de automação de pedidos com IA.
 
 ---
 
