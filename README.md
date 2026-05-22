@@ -61,7 +61,7 @@ Sistema SaaS de automação de pedidos com IA integrada.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/cesar-danilo-palacios-ortega-396401353/
+- LinkedIn: www.linkedin.com/in/césar-danilo-396408153
 - GitHub: https://github.com/CesarDanilo
 - Portfólio: https://meu-portifolio-nu-eight.vercel.app/
 
