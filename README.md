@@ -1,12 +1,12 @@
 <div align="center">
 
-# Cesar Danilo | Full Stack Developer
+# Cesar Danilo | Full Stack Engineer
 
-Full Stack Engineer focused on scalable systems, SaaS products and automation.
+Full Stack Developer focused on building **scalable SaaS products, automation systems and AI-driven workflows**.
 
-Building high-performance applications with clean architecture, minimal interfaces and AI-powered workflows.
+I design and engineer software that is **fast, minimal, and operationally efficient**, with strong focus on architecture, performance and real business impact.
 
-Currently developing **Chat2Order** — a platform that transforms WhatsApp conversations into structured orders automatically using AI.
+Currently building **Chat2Order**, an AI system that transforms WhatsApp conversations into structured orders automatically.
 
 <br/>
 
@@ -23,87 +23,102 @@ Currently developing **Chat2Order** — a platform that transforms WhatsApp conv
 
 ---
 
-## About
+## About Me
 
-I build systems focused on:
-- performance
-- scalability
-- automation
-- clean architecture
-- operational efficiency
+I work with engineering principles focused on:
 
-My goal is to create software that feels minimal, fast and intuitive while solving real business problems.
+- scalable system design
+- performance-first architecture
+- automation of operational workflows
+- clean and maintainable codebases
+- product-oriented development
 
----
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=9f9f9f" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" height="165" />
-
-</div>
+My focus is not just writing code — I build systems that reduce operational cost, improve efficiency and scale with demand.
 
 ---
 
-## Featured Project
+## What I Deliver
 
-### Chat2Order
+- Production-ready SaaS applications
+- REST APIs and backend systems
+- Full-stack web applications
+- AI-integrated workflows
+- Clean architecture and modular systems
+- Dockerized and deployable environments
 
-AI-powered SaaS for order automation.
+---
 
-Transforms WhatsApp conversations into structured orders automatically, reducing manual operational work and improving order management flow.
+## Tech Stack
 
-<br/>
-
-#### Core Features
-
-- WhatsApp conversation import
-- AI order parsing
-- Administrative dashboard
-- Manual order management
-- Order workflow tracking
-- Operational metrics
-- Responsive interface
-- Authentication & protected routes
-
-<br/>
-
-#### Architecture
-
-##### Frontend
+**Frontend**
 - React
 - TypeScript
 - Tailwind CSS
 - TanStack Router
 - Shadcn/UI
 
-##### Backend
+**Backend**
 - Node.js
 - Express
-- Prisma ORM
 - PostgreSQL
+- Prisma ORM
 - Docker
 
 ---
 
-## Links
+## Featured Project
 
-#### Portfolio
+### Chat2Order (SaaS)
+
+AI-powered order automation platform.
+
+Transforms WhatsApp conversations into structured, actionable orders — reducing manual operations and improving order management efficiency.
+
+#### Core Features
+- WhatsApp conversation ingestion
+- AI-based order extraction
+- Admin dashboard
+- Order lifecycle management
+- Manual corrections & overrides
+- Operational metrics
+- Authentication system
+- Responsive UI
+
+#### Architecture Highlights
+- Modular backend design
+- Scalable database schema (PostgreSQL)
+- Containerized environment (Docker)
+- Component-based frontend architecture
+- Separation of concerns between services
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=9f9f9f" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" height="165" />
+
+</div>
+
+---
+
+## Contact & Links
+
+- Portfolio
 https://meu-portifolio-nu-eight.vercel.app/
 
-#### Frontend
-https://github.com/CesarDanilo/chat2order-frontend
+- Working on the project
+https://chat2order-frontend.vercel.app
 
-#### Backend
-https://github.com/CesarDanilo/Chat2Order-backend
-
-#### LinkedIn
-https://www.linkedin.com/in/césar-danilo-396408153
+- LinkedIn
+https://www.linkedin.com/in/césar-danilo-396408153 
 
 ---
 
 <div align="center">
 
-minimal software • scalable systems • real products
+minimal systems • scalable software • real-world impact
 
 </div>
