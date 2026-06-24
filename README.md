@@ -3,102 +3,61 @@
 # Cesar Danilo
 ### Full Stack Engineer
 
-Construo **SaaS, automação e workflows de IA** com foco em arquitetura limpa, performance e impacto real de negócio.
+Especialista em **SaaS, automação e integrações com IA** — entrego sistemas escaláveis do zero à produção.
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript" />
-<img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma" />
-<img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker" />
+[![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=0ea5e9)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=0ea5e9)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=0ea5e9)](https://nodejs.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=0ea5e9)](https://www.postgresql.org)
+[![Prisma](https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=0ea5e9)](https://www.prisma.io)
+[![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=0ea5e9)](https://www.docker.com)
 
 </div>
 
-<br/>
+---
 
 ## Sobre
 
-Trabalho com princípios de engenharia voltados a:
+Full Stack Engineer com foco em produto e resultado de negócio. Construo aplicações SaaS completas, APIs robustas e sistemas com integração de IA — do levantamento de requisitos ao deploy em produção.
 
-- design de sistemas escaláveis
-- arquitetura orientada a performance
-- automação de processos operacionais
-- código limpo e manutenível
-- desenvolvimento orientado a produto
+Atuo em todo o ciclo: arquitetura backend (Node.js, PostgreSQL, Prisma), interfaces modernas (React, TypeScript, Tailwind) e integrações com IA e automação. Tenho experiência entregando projetos ponta a ponta, com responsabilidade direta sobre decisões técnicas e contato com cliente.
 
-Não escrevo código apenas por escrever — construo sistemas que reduzem custo operacional, aumentam eficiência e escalam com a demanda.
+Hoje construo produtos próprios de forma independente, com foco em sistemas minimalistas e escaláveis.
 
-<br/>
+Trabalho bem tanto em equipe quanto de forma autônoma, com comunicação clara e entrega consistente.
 
-## O que entrego
-
-- Aplicações SaaS prontas para produção
-- APIs REST e sistemas de backend
-- Aplicações full-stack
-- Workflows integrados com IA
-- Arquitetura modular e escalável
-- Ambientes containerizados (Docker)
-
-<br/>
-
-## Stack
-
-**Frontend**
-`React` `TypeScript` `Tailwind CSS` `TanStack Router` `Shadcn/UI`
-
-**Backend**
-`Node.js` `Express` `PostgreSQL` `Prisma ORM` `Docker`
-
-<br/>
-
-## Projeto em destaque
-
-### Chat2Order — SaaS
-
-Plataforma de automação de pedidos via IA. Transforma conversas do WhatsApp em pedidos estruturados e acionáveis, reduzindo operações manuais e melhorando a gestão de pedidos.
-
-**Funcionalidades**
-- Ingestão de conversas do WhatsApp
-- Extração de pedidos com IA
-- Dashboard administrativo
-- Gestão do ciclo de vida do pedido
-- Correções e ajustes manuais
-- Métricas operacionais
-- Autenticação
-- Interface responsiva
-
-**Arquitetura**
-- Backend modular
-- Schema de banco escalável (PostgreSQL)
-- Ambiente containerizado (Docker)
-- Frontend baseado em componentes
-- Separação clara de responsabilidades
-
-<br/>
+---
 
 ## Métricas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=9f9f9f" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&border_radius=10&rank_icon=percentile&title_color=0ea5e9&icon_color=0ea5e9&text_color=a1a1aa&ring_color=0ea5e9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&theme=transparent&hide_border=true&border_radius=10&title_color=0ea5e9&text_color=a1a1aa&langs_count=8" height="165" />
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&border_radius=10&stroke=27272a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=a1a1aa&dates=71717a" height="165" />
+
+</div>
+
+---
 
 ## Contato
 
-- Portfólio → [meu-portifolio-nu-eight.vercel.app](https://meu-portifolio-nu-eight.vercel.app/)
-- Chat2Order (em desenvolvimento) → [chat2order-frontend.vercel.app](https://chat2order-frontend.vercel.app)
-- LinkedIn → [César Danilo](https://www.linkedin.com/in/césar-danilo-396408153)
+**Aberto a oportunidades CLT, PJ e projetos freelance.**
 
-<br/>
+- Portfólio → [meu-portifolio-nu-eight.vercel.app](https://meu-portifolio-nu-eight.vercel.app/)
+- LinkedIn → [in/césar-danilo](https://www.linkedin.com/in/césar-danilo-396408153)
+- E-mail → cesardanilopalacios390@gmail.com
 
 <div align="center">
+<br/>
 
-**sistemas minimalistas · software escalável · impacto real**
+*sistemas minimalistas · software escalável · impacto real*
 
 </div>
