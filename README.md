@@ -58,6 +58,4 @@ Trabalho bem tanto em equipe quanto de forma autônoma, com comunicação clara 
 <div align="center">
 <br/>
 
-*sistemas minimalistas · software escalável · impacto real*
-
 </div>
