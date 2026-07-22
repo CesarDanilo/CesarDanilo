@@ -1,61 +1,54 @@
 <div align="center">
 
 # Cesar Danilo
-### Full Stack Engineer
 
-Especialista em **SaaS, automação e integrações com IA** — entrego sistemas escaláveis do zero à produção.
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;SaaS+%26+API+Architecture;AI+Integrations+%26+Automation&font=Fira+Code&center=true&width=440&height=45&color=0ea5e9&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+
+Building scalable SaaS products, robust APIs, and AI-powered systems — from architecture to production.
 
 <br/>
 
-[![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=0ea5e9)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=0ea5e9)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=0ea5e9)](https://nodejs.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=0ea5e9)](https://www.postgresql.org)
-[![Prisma](https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=0ea5e9)](https://www.prisma.io)
-[![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=0ea5e9)](https://www.docker.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=0ea5e9)](https://meu-portifolio-nu-eight.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/césar-danilo-396408153)
+[![Email](https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=0ea5e9)](mailto:cesardanilopalacios390@gmail.com)
 
 </div>
 
----
+<br/>
 
-## Sobre
+## About
 
-Full Stack Engineer com foco em produto e resultado de negócio. Construo aplicações SaaS completas, APIs robustas e sistemas com integração de IA — do levantamento de requisitos ao deploy em produção.
+Full Stack Engineer focused on product outcomes and business results. I build complete SaaS applications, robust APIs, and AI-integrated systems — from requirements gathering to production deployment.
 
-Atuo em todo o ciclo: arquitetura backend (Node.js, PostgreSQL, Prisma), interfaces modernas (React, TypeScript, Tailwind) e integrações com IA e automação. Tenho experiência entregando projetos ponta a ponta, com responsabilidade direta sobre decisões técnicas e contato com cliente.
+I work across the full stack: backend architecture (Node.js, PostgreSQL, Prisma), modern interfaces (React, TypeScript, Tailwind CSS), and AI/automation integrations. I have hands-on experience delivering end-to-end projects, owning technical decisions, and working directly with clients.
 
-Hoje construo produtos próprios de forma independente, com foco em sistemas minimalistas e escaláveis.
+Currently building independent products with a focus on minimal, scalable systems. Comfortable working both in teams and autonomously, with clear communication and consistent delivery.
 
-Trabalho bem tanto em equipe quanto de forma autônoma, com comunicação clara e entrega consistente.
+**Open to:** CLT · PJ · Freelance
 
----
+<br/>
 
-## Métricas
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&border_radius=10&rank_icon=percentile&title_color=0ea5e9&icon_color=0ea5e9&text_color=a1a1aa&ring_color=0ea5e9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=CesarDanilo&show_icons=true&theme=transparent&hide_border=true&border_radius=10&rank_icon=percentile&title_color=0ea5e9&icon_color=0ea5e9&text_color=a1a1aa&ring_color=0ea5e9&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&theme=transparent&hide_border=true&border_radius=10&title_color=0ea5e9&text_color=a1a1aa&langs_count=8" height="165" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CesarDanilo&theme=transparent&hide_border=true&border_radius=10&stroke=27272a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=a1a1aa&dates=71717a" height="165" />
+<img src="https://streak-stats.demolab.com/?user=CesarDanilo&theme=transparent&hide_border=true&border_radius=10&stroke=27272a&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=a1a1aa&dates=71717a" height="165" />
 
 </div>
 
----
-
-## Contato
-
-**Aberto a oportunidades CLT, PJ e projetos freelance.**
-
-- Portfólio → [meu-portifolio-nu-eight.vercel.app](https://meu-portifolio-nu-eight.vercel.app/)
-- LinkedIn → [in/césar-danilo](https://www.linkedin.com/in/césar-danilo-396408153)
-- E-mail → cesardanilopalacios390@gmail.com
-
-<div align="center">
 <br/>
+
+## Contact
+
+<div align="center">
+
+Open to CLT, PJ, and freelance opportunities.
+
+**Portfolio** → [meu-portifolio-nu-eight.vercel.app](https://meu-portifolio-nu-eight.vercel.app/)
+**LinkedIn** → [in/césar-danilo](https://www.linkedin.com/in/césar-danilo-396408153)
+**Email** → cesardanilopalacios390@gmail.com
 
 </div>
