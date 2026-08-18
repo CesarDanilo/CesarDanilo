@@ -5,8 +5,6 @@
 
 # Cesar Danilo
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Construindo+SaaS+e+APIs+escal%C3%A1veis" alt="Typing SVG" />
-
 Construindo aplicações escaláveis, focadas em performance e experiência do usuário.
 
 <br/>
@@ -84,43 +82,11 @@ Busco oportunidades para desenvolver soluções modernas e performáticas, unind
 
 <br/>
 
-<!-- =====================================================
-     SNAKE ANIMATION
-     Requer um GitHub Action configurado no repositório
-     CesarDanilo/CesarDanilo gerando snake-dark.svg e
-     snake-light.svg no branch "output". Sem essa Action
-     ativa, as imagens abaixo não vão renderizar.
-     Workflow de referência: Platane/snk
-===================================================== -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarDanilo/CesarDanilo/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarDanilo/CesarDanilo/output/snake-light.svg" />
-  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/CesarDanilo/CesarDanilo/output/snake-light.svg" />
-</picture>
-
-</div>
-
 <br/>
 
 <!-- =====================================================
      CONTATO
 ===================================================== -->
 <div align="center">
-
-
-<a href="https://github.com/CesarDanilo">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=0EA5E9" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/césar-danilo-396408153">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" alt="LinkedIn" />
-</a>
-<a href="mailto:cesardanilopalacios390@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" />
-</a>
-<a href="https://meu-portifolio-nu-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=0EA5E9" alt="Portfolio" />
-</a>
 
 </div>
