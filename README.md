@@ -1,72 +1,17 @@
-<div align="center">
-
 # Cesar Danilo
 
-**Software Engineer · Full Stack Developer**
+**Software Engineer | Full Stack Developer**
 
-Construindo aplicações escaláveis, performáticas e com foco em experiência do usuário.
+Bacharel em Engenharia de Software, com foco no desenvolvimento de aplicações web, arquitetura de software e construção de soluções de ponta a ponta.
 
-<br />
+### Sobre mim
 
-<a href="https://meu-portifolio-nu-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=0EA5E9" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/césar-danilo-396408153">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" alt="LinkedIn" />
-</a>
-<a href="mailto:cesardanilopalacios390@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" />
-</a>
+Minha trajetória na tecnologia começou cedo, com a curiosidade de entender como os computadores funcionavam. O que começou com hardware e montagem de computadores evoluiu para o interesse em sistemas, desenvolvimento web e engenharia de software.
 
-<br />
-<br />
+Por iniciativa própria, comecei a estudar programação e tecnologias como Python, HTML, CSS e bancos de dados. Em 2021, iniciei minha graduação em Engenharia de Software e, em 2022, dei meus primeiros passos profissionais como estagiário.
 
-<img
-src="https://streak-stats.demolab.com/?user=CesarDanilo&hide_border=true&background=0A101F&stroke=27272A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=A1A1AA&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=71717A&titleColor=0EA5E9&card_width=1000"
-width="100%"
-alt="GitHub Streak"
-/>
+Desde então, venho trabalhando no desenvolvimento de aplicações web, APIs e sistemas, participando de diferentes etapas do ciclo de desenvolvimento — da modelagem de dados à implementação e entrega.
 
-<br />
+Tenho como foco escrever código de qualidade, desenvolver arquiteturas bem estruturadas e transformar problemas reais em soluções eficientes.
 
-<img
-src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=CesarDanilo&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=A1A1AA&bg_color=0A101F&card_width=500"
-width="49%"
-alt="GitHub Stats"
-/> <img
-src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=CesarDanilo&layout=compact&langs_count=8&hide_border=true&title_color=0EA5E9&text_color=A1A1AA&bg_color=0A101F&card_width=500"
-width="49%"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-### Sobre
-
-Bacharel em Engenharia de Software, atuando no desenvolvimento de aplicações web completas, desde arquitetura e APIs até interfaces modernas.
-
-Meu foco está em **Clean Code, arquitetura, performance, escalabilidade e experiência do usuário**.
-
----
-
-### Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nodejs,express,laravel,postgres,prisma,mysql,docker,git,github,linux" />
-
-</div>
-
----
-
-<div align="center">
-
-**React · TypeScript · Node.js · PostgreSQL · Prisma · Docker**
-
-<a href="https://meu-portifolio-nu-eight.vercel.app/">Portfolio</a>
-  ·   <a href="https://www.linkedin.com/in/césar-danilo-396408153">LinkedIn</a>
-  ·   <a href="mailto:cesardanilopalacios390@gmail.com">Email</a>
-
-</div>
+[Portfolio](https://meu-portifolio-nu-eight.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/césar-danilo-396408153) · [Email](mailto:cesardanilopalacios390@gmail.com)
